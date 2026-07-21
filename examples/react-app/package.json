@@ -33,7 +33,7 @@
     "react-dom": "19.2.7",
     "tailwind-merge": "3.6.0",
     "tailwindcss-animate": "1.0.7",
-    "tronweb": "6.3.0",
+    "tronweb": "6.4.0",
     "use-debounce": "10.1.1",
     "viem": "2.47.10",
     "wagmi": "3.6.0",
